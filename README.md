@@ -17,6 +17,7 @@ This project provides the following:
 
 4. `D3DKMTQueryVidPnExclusiveOwnership.exe` will spawn a message box displaying the owner type for the foreground process, switch to this window once the timeout has elapsed.
 
+### Owner Types
 |Owner Type|Description|
 |-|-|
 |Not owned.|The foreground process doesn't have exclusive ownership of a display.|
