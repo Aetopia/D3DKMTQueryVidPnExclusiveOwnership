@@ -4,7 +4,7 @@ This project provides the following:
 - A way to easily detect if a process uses Exclusive Fullscreen/FSE, Emulated Fullscreen/EFSE or Windowed.
 
 ## Usage
-1. Open an application that is able to acquire exclusive ownership to the display its present on aka "Exclusive Fullscreen/FSE".
+1. Open an application that is able to acquire exclusive ownership to the display its present on.
 2. Open a Command Prompt window and do the following:
 
     - Navigate to the directory where the binary is present.
