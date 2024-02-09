@@ -19,7 +19,7 @@ This project provides the following:
 
 - The following statuses are reported by the program:
 
-    |Exclusive Ownership Status|Description|
+    |Owner Type|Description|
     |-|-|
     |Not owned.|The foreground process doesn't have exclusive ownership of a display.|
     |Shared.|The foreground process has the ability to yield exclusive ownership of a display to other processes with exclusive ownership.|
