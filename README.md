@@ -15,7 +15,7 @@ This project provides the following:
         ```
 3. Switch to the application and have it acquire exclusive ownership.
 
-4. `D3DKMTQueryVidPnExclusiveOwnership.exe` will spawn a message box displaying the exclusive ownership status for the foreground process, switch to this window once the timeout has elapsed.
+4. `D3DKMTQueryVidPnExclusiveOwnership.exe` will spawn a message box displaying the owner type for the foreground process, switch to this window once the timeout has elapsed.
 
 - The following statuses are reported by the program:
 
