@@ -27,6 +27,9 @@ This project provides the following:
     |Exclusive GDI.|The foreground process has sole exclusive ownership of a display alongside a shared primary GDI surface.|
     |Emulated.|The foreground process doesn't have sole exclusive ownership of a display but emulates having exclusive ownership.|
 
+> [!NOTE]
+> You may read more in depth on this topic by [Presentation Model on Special K's wiki](https://wiki.special-k.info/Presentation_Model).
+
 ## Build
 1. Install [GCC](https://winlibs.com/) & [UPX](https://upx.github.io).
 2. Run [Build.cmd](Build.cmd).
