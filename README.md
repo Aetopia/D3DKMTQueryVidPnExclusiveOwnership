@@ -7,7 +7,7 @@ This project provides the following:
 1. Open an application that is able to acquire exclusive ownership to the display its present on aka "Exclusive Fullscreen/FSE".
 2. Open a Command Prompt window and do the following:
 
-    - Navigate to the directory where the compiled binary is present.
+    - Navigate to the directory where the binary is present.
     - Invoke the binary as follows:
 
         ```cmd
