@@ -1,7 +1,7 @@
 # D3DKMTQueryVidPnExclusiveOwnership
 This project provides the following:
 - An example of how to use the `D3DKMTQueryVidPnExclusiveOwnership` function.
-- A way to easily detect if a process uses Exclusive Fullscreen/FSE, Emulated Fullscreen/EFSE or Windowed.
+- A way to easily detect if a process uses Exclusive Fullscreen, Emulated Fullscreen or Windowed.
 
 ## Usage
 1. Open an application that is able to acquire exclusive ownership to the display its present on.
