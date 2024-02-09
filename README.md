@@ -27,7 +27,7 @@ This project provides the following:
 |Emulated.|The foreground process doesn't have sole exclusive ownership of a display but emulates having exclusive ownership.|
 
 > [!NOTE]
-> You may read more in depth on this topic by [Presentation Model on Special K's wiki](https://wiki.special-k.info/Presentation_Model).
+> You may read more in depth on this topic by checking out [Presentation Model on Special K's wiki](https://wiki.special-k.info/Presentation_Model).
 
 ## Build
 1. Install [GCC](https://winlibs.com/) & [UPX](https://upx.github.io).
