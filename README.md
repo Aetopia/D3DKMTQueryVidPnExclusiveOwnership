@@ -17,15 +17,13 @@ This project provides the following:
 
 4. `D3DKMTQueryVidPnExclusiveOwnership.exe` will spawn a message box displaying the owner type for the foreground process, switch to this window once the timeout has elapsed.
 
-- The following statuses are reported by the program:
-
-    |Owner Type|Description|
-    |-|-|
-    |Not owned.|The foreground process doesn't have exclusive ownership of a display.|
-    |Shared.|The foreground process has the ability to yield exclusive ownership of a display to other processes with exclusive ownership.|
-    |Exclusive.|The foreground process has sole exclusive ownership of a display.|
-    |Exclusive GDI.|The foreground process has sole exclusive ownership of a display alongside a shared primary GDI surface.|
-    |Emulated.|The foreground process doesn't have sole exclusive ownership of a display but emulates having exclusive ownership.|
+|Owner Type|Description|
+|-|-|
+|Not owned.|The foreground process doesn't have exclusive ownership of a display.|
+|Shared.|The foreground process has the ability to yield exclusive ownership of a display to other processes with exclusive ownership.|
+|Exclusive.|The foreground process has sole exclusive ownership of a display.|
+|Exclusive GDI.|The foreground process has sole exclusive ownership of a display alongside a shared primary GDI surface.|
+|Emulated.|The foreground process doesn't have sole exclusive ownership of a display but emulates having exclusive ownership.|
 
 > [!NOTE]
 > You may read more in depth on this topic by [Presentation Model on Special K's wiki](https://wiki.special-k.info/Presentation_Model).
